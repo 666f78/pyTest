@@ -1,0 +1,5 @@
+/100
+/__pycache__
+/.vscode
+/.pytest_cache
+/_pyTest_*
